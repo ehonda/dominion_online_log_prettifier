@@ -1,0 +1,304 @@
+
+Game #6437249, rated.
+SmokeScreen
+: 51.27
+
+E.Honda
+: 61.01
+
+
+S
+starts with 7 Coppers
+and 3 Estates
+.
+S
+shuffles their deck.
+S
+draws 5 cards
+.
+E
+starts with 7 Coppers
+and 3 Estates
+.
+E
+shuffles their deck.
+E
+draws 4 Coppers
+and an Estate
+.
+
+Turn 1 - SmokeScreen
+S
+plays 3 Coppers
+.
+S
+buys and gains a Black Market
+.
+S
+draws 5 cards
+.
+
+Turn 1 - E.Honda
+E
+plays 4 Coppers
+.
+E
+buys and gains an Ironworks
+.
+E
+draws 3 Coppers
+and 2 Estates
+.
+
+Turn 2 - SmokeScreen
+S
+plays 4 Coppers
+.
+S
+buys and gains an Ironworks
+.
+S
+shuffles their deck.
+S
+draws 5 cards
+.
+
+Turn 2 - E.Honda
+E
+plays 3 Coppers
+.
+E
+buys and gains a Black Market
+.
+E
+shuffles their deck.
+E
+draws 3 Coppers
+and 2 Estates
+.
+
+Turn 3 - SmokeScreen
+S
+plays a Black Market
+.
+S
+reveals a Crossroads
+, an Ill Gotten Gains
+and a Transmogrify
+.
+S
+gains a Crossroads
+.
+S
+puts an Ill Gotten Gains
+and a Transmogrify
+on the bottom of the Black Market Deck.
+S
+plays 2 Coppers
+.
+S
+buys and gains a Lurker
+.
+S
+draws 5 cards
+.
+
+Turn 3 - E.Honda
+E
+plays 3 Coppers
+.
+E
+buys and gains a Black Market
+.
+E
+draws 4 Coppers
+and an Ironworks
+.
+
+Turn 4 - SmokeScreen
+S
+plays an Ironworks
+.
+S
+gains a Herald
+.
+S
+plays 3 Coppers
+.
+S
+buys and gains a Silver
+.
+S
+shuffles their deck.
+S
+draws 5 cards
+.
+
+Turn 4 - E.Honda
+E
+plays an Ironworks
+.
+E
+gains a Herald
+.
+E
+plays 4 Coppers
+.
+E
+buys and gains a Herald
+.
+E
+shuffles their deck.
+E
+draws 2 Coppers
+, 2 Estates
+and a Black Market
+.
+
+Turn 5 - SmokeScreen
+S
+plays an Ironworks
+.
+S
+gains a Herald
+.
+S
+plays a Black Market
+.
+S
+reveals a Militia
+, a Caravan
+and a Sprawling Castle
+.
+S
+plays 2 Coppers
+.
+S
+gains a Caravan
+.
+S
+puts a Militia
+and a Sprawling Castle
+on the bottom of the Black Market Deck.
+S
+draws 5 cards
+.
+
+Turn 5 - E.Honda
+E
+plays a Black Market
+.
+E
+reveals a Bazaar
+, a Treasure Map
+and a Junk Dealer
+.
+E
+plays 2 Coppers
+.
+E
+puts a Bazaar
+, a Treasure Map
+and a Junk Dealer
+on the bottom of the Black Market Deck.
+E
+buys and gains a Herald
+.
+E
+draws 2 Coppers
+, an Estate
+, an Ironworks
+and a Black Market
+.
+
+Turn 6 - SmokeScreen
+S
+plays a Lurker
+.
+S
+trashes a Herald
+.
+S
+plays a Silver
+and 2 Coppers
+.
+S
+buys and gains a Herald
+.
+S
+draws 5 cards
+.
+
+Turn 6 - E.Honda
+E
+plays an Ironworks
+.
+E
+gains a Herald
+.
+E
+plays a Black Market
+.
+E
+reveals a Forge
+, an Ironmonger
+and a Chariot Race
+.
+E
+plays 2 Coppers
+.
+E
+puts a Forge
+, an Ironmonger
+and a Chariot Race
+on the bottom of the Black Market Deck.
+E
+buys and gains a Herald
+.
+E
+draws 3 Coppers
+and 2 Heralds
+.
+
+Turn 7 - SmokeScreen
+S
+plays a Herald
+.
+S
+draws a card
+.
+S
+shuffles their deck.
+S
+reveals a Black Market
+.
+S
+plays a Black Market
+.
+S
+reveals a Bandit
+, a Herbalist
+and a Cartographer
+.
+S
+plays 2 Coppers
+.
+S
+puts a Bandit
+, a Herbalist
+and a Cartographer
+on the bottom of the Black Market Deck.
+S
+plays a Crossroads
+.
+S
+reveals 2 Lurkers
+and an Archive
+.
+S
+draws 2 cards
+.
+S
+plays a Silver
+and a Copper
+.

@@ -1,0 +1,1766 @@
+
+Game #6437249, rated.
+SmokeScreen
+: 51.27
+
+E.Honda
+: 61.01
+
+
+S
+starts with 7 Coppers
+and 3 Estates
+.
+S
+shuffles their deck.
+S
+draws 5 cards
+.
+E
+starts with 7 Coppers
+and 3 Estates
+.
+E
+shuffles their deck.
+E
+draws 4 Coppers
+and an Estate
+.
+
+Turn 1 - SmokeScreen
+S
+plays 3 Coppers
+.
+S
+buys and gains a Black Market
+.
+S
+draws 5 cards
+.
+
+Turn 1 - E.Honda
+E
+plays 4 Coppers
+.
+E
+buys and gains an Ironworks
+.
+E
+draws 3 Coppers
+and 2 Estates
+.
+
+Turn 2 - SmokeScreen
+S
+plays 4 Coppers
+.
+S
+buys and gains an Ironworks
+.
+S
+shuffles their deck.
+S
+draws 5 cards
+.
+
+Turn 2 - E.Honda
+E
+plays 3 Coppers
+.
+E
+buys and gains a Black Market
+.
+E
+shuffles their deck.
+E
+draws 3 Coppers
+and 2 Estates
+.
+
+Turn 3 - SmokeScreen
+S
+plays a Black Market
+.
+S
+reveals a Crossroads
+, an Ill Gotten Gains
+and a Transmogrify
+.
+S
+gains a Crossroads
+.
+S
+puts an Ill Gotten Gains
+and a Transmogrify
+on the bottom of the Black Market Deck.
+S
+plays 2 Coppers
+.
+S
+buys and gains a Lurker
+.
+S
+draws 5 cards
+.
+
+Turn 3 - E.Honda
+E
+plays 3 Coppers
+.
+E
+buys and gains a Black Market
+.
+E
+draws 4 Coppers
+and an Ironworks
+.
+
+Turn 4 - SmokeScreen
+S
+plays an Ironworks
+.
+S
+gains a Herald
+.
+S
+plays 3 Coppers
+.
+S
+buys and gains a Silver
+.
+S
+shuffles their deck.
+S
+draws 5 cards
+.
+
+Turn 4 - E.Honda
+E
+plays an Ironworks
+.
+E
+gains a Herald
+.
+E
+plays 4 Coppers
+.
+E
+buys and gains a Herald
+.
+E
+shuffles their deck.
+E
+draws 2 Coppers
+, 2 Estates
+and a Black Market
+.
+
+Turn 5 - SmokeScreen
+S
+plays an Ironworks
+.
+S
+gains a Herald
+.
+S
+plays a Black Market
+.
+S
+reveals a Militia
+, a Caravan
+and a Sprawling Castle
+.
+S
+plays 2 Coppers
+.
+S
+gains a Caravan
+.
+S
+puts a Militia
+and a Sprawling Castle
+on the bottom of the Black Market Deck.
+S
+draws 5 cards
+.
+
+Turn 5 - E.Honda
+E
+plays a Black Market
+.
+E
+reveals a Bazaar
+, a Treasure Map
+and a Junk Dealer
+.
+E
+plays 2 Coppers
+.
+E
+puts a Bazaar
+, a Treasure Map
+and a Junk Dealer
+on the bottom of the Black Market Deck.
+E
+buys and gains a Herald
+.
+E
+draws 2 Coppers
+, an Estate
+, an Ironworks
+and a Black Market
+.
+
+Turn 6 - SmokeScreen
+S
+plays a Lurker
+.
+S
+trashes a Herald
+.
+S
+plays a Silver
+and 2 Coppers
+.
+S
+buys and gains a Herald
+.
+S
+draws 5 cards
+.
+
+Turn 6 - E.Honda
+E
+plays an Ironworks
+.
+E
+gains a Herald
+.
+E
+plays a Black Market
+.
+E
+reveals a Forge
+, an Ironmonger
+and a Chariot Race
+.
+E
+plays 2 Coppers
+.
+E
+puts a Forge
+, an Ironmonger
+and a Chariot Race
+on the bottom of the Black Market Deck.
+E
+buys and gains a Herald
+.
+E
+draws 3 Coppers
+and 2 Heralds
+.
+
+Turn 7 - SmokeScreen
+S
+plays a Herald
+.
+S
+draws a card
+.
+S
+shuffles their deck.
+S
+reveals a Black Market
+.
+S
+plays a Black Market
+.
+S
+reveals a Bandit
+, a Herbalist
+and a Cartographer
+.
+S
+plays 2 Coppers
+.
+S
+puts a Bandit
+, a Herbalist
+and a Cartographer
+on the bottom of the Black Market Deck.
+S
+plays a Crossroads
+.
+S
+reveals 2 Lurkers
+and an Archive
+.
+S
+draws 2 cards
+.
+S
+plays a Silver
+and a Copper
+.
+S
+buys and gains a Herald
+.
+S
+draws 5 cards
+.
+
+Turn 7 - E.Honda
+E
+plays a Herald
+.
+E
+shuffles their deck.
+E
+draws a Copper
+.
+E
+reveals a Black Market
+.
+E
+plays a Black Market
+.
+E
+reveals a Shanty Town
+, a Torturer
+and a Jack of All Trades
+.
+E
+plays 3 Coppers
+.
+E
+gains a Torturer
+.
+E
+puts a Shanty Town
+and a Jack of All Trades
+on the bottom of the Black Market Deck.
+E
+plays a Herald
+.
+E
+draws a Herald
+.
+E
+reveals a Copper
+.
+E
+plays a Herald
+.
+E
+draws a Copper
+.
+E
+reveals a Black Market
+.
+E
+plays a Black Market
+.
+E
+reveals a Native Village
+, a Band of Misfits
+and a Feodum
+.
+E
+plays 2 Coppers
+.
+E
+puts a Native Village
+, a Band of Misfits
+and a Feodum
+on the bottom of the Black Market Deck.
+E
+buys and gains a Lurker
+.
+E
+draws a Copper
+, 3 Estates
+and a Herald
+.
+
+Turn 8 - SmokeScreen
+S
+plays an Ironworks
+.
+S
+gains a Lurker
+.
+S
+plays 3 Coppers
+.
+S
+buys and gains a Lurker
+.
+S
+draws 5 cards
+.
+
+Turn 8 - E.Honda
+E
+plays a Herald
+.
+E
+draws a Herald
+.
+E
+reveals a Copper
+.
+E
+plays a Herald
+.
+E
+draws a Copper
+.
+E
+reveals an Ironworks
+.
+E
+plays an Ironworks
+.
+E
+gains a Black Market
+.
+E
+plays 2 Coppers
+.
+E
+buys and gains a Lurker
+.
+E
+shuffles their deck.
+E
+draws 4 Coppers
+and a Herald
+.
+
+Turn 9 - SmokeScreen
+S
+plays a Caravan
+.
+S
+shuffles their deck.
+S
+draws a card
+.
+S
+plays a Herald
+.
+S
+draws a card
+.
+S
+reveals an Estate
+.
+S
+plays a Herald
+.
+S
+draws a card
+.
+S
+reveals a Crossroads
+.
+S
+plays a Crossroads
+.
+S
+reveals 2 Lurkers
+and an Archive
+.
+S
+draws a card
+.
+S
+plays a Herald
+.
+S
+draws a card
+.
+S
+reveals a Copper
+.
+S
+plays a Lurker
+.
+S
+gains a Herald
+.
+S
+plays a Lurker
+.
+S
+trashes an Archive
+.
+S
+plays 2 Coppers
+.
+S
+buys and gains a Pearl Diver
+.
+S
+draws 5 cards
+.
+
+Turn 9 - E.Honda
+E
+plays a Herald
+.
+E
+draws an Estate
+.
+E
+reveals a Lurker
+.
+E
+plays a Lurker
+.
+E
+gains an Archive
+.
+E
+plays 4 Coppers
+.
+E
+buys and gains a Pearl Diver
+.
+E
+draws an Estate
+, an Ironworks
+, a Torturer
+, a Herald
+and a Black Market
+.
+
+Turn 10 - SmokeScreen
+S
+starts their turn.
+S
+draws a card
+(Caravan
+).
+S
+plays a Herald
+.
+S
+draws a card
+.
+S
+reveals an Ironworks
+.
+S
+plays an Ironworks
+.
+S
+gains a Pearl Diver
+.
+S
+plays a Lurker
+.
+S
+trashes an Archive
+.
+S
+plays a Black Market
+.
+S
+reveals an Island
+, a Forager
+and a Butcher
+.
+S
+plays a Silver
+.
+S
+gains a Forager
+.
+S
+puts an Island
+and a Butcher
+on the bottom of the Black Market Deck.
+S
+plays 2 Coppers
+.
+S
+buys and gains a Pearl Diver
+.
+S
+shuffles their deck.
+S
+draws 5 cards
+.
+
+Turn 10 - E.Honda
+E
+plays a Herald
+.
+E
+draws a Copper
+.
+E
+reveals a Herald
+.
+E
+plays a Herald
+.
+E
+draws an Estate
+.
+E
+reveals a Lurker
+.
+E
+plays a Lurker
+.
+E
+gains an Archive
+.
+E
+plays a Torturer
+.
+E
+draws a Copper
+and 2 Heralds
+.
+S
+discards a card
+and a Copper
+.
+E
+plays an Ironworks
+.
+E
+gains a Pearl Diver
+.
+E
+plays a Herald
+.
+E
+draws a Black Market
+.
+E
+reveals a Copper
+.
+E
+plays a Herald
+.
+E
+draws a Copper
+.
+E
+reveals a Black Market
+.
+E
+plays a Black Market
+.
+E
+reveals a Loan
+, a Quarry
+and an Amulet
+.
+E
+plays a Copper
+.
+E
+gains an Amulet
+.
+E
+puts a Loan
+and a Quarry
+on the bottom of the Black Market Deck.
+E
+plays a Black Market
+.
+E
+reveals a Masquerade
+, a Secret Passage
+and a Swamp Hag
+.
+E
+puts a Masquerade
+, a Secret Passage
+and a Swamp Hag
+on the bottom of the Black Market Deck.
+E
+plays a Black Market
+.
+E
+reveals a Remodel
+, a Minion
+and a Prince
+.
+E
+plays 2 Coppers
+.
+E
+puts a Remodel
+, a Minion
+and a Prince
+on the bottom of the Black Market Deck.
+E
+buys and gains a Hunting Grounds
+.
+E
+shuffles their deck.
+E
+draws a Copper
+, an Estate
+, a Lurker
+, an Amulet
+and a Black Market
+.
+
+Turn 11 - SmokeScreen
+S
+plays a Forager
+.
+S
+trashes a Copper
+.
+S
+plays a Copper
+.
+S
+buys and gains a Pearl Diver
+.
+S
+draws 5 cards
+.
+
+Turn 11 - E.Honda
+E
+plays an Amulet
+.
+E
+trashes an Estate
+.
+E
+draws 2 Coppers
+, a Pearl Diver
+, a Herald
+and a Black Market
+.
+
+Turn 12 - SmokeScreen
+S
+plays a Pearl Diver
+.
+S
+draws a card
+.
+S
+looks at a card
+.
+S
+topdecks a card
+.
+S
+plays a Pearl Diver
+.
+S
+draws a card
+.
+S
+looks at a card
+.
+S
+plays a Herald
+.
+S
+draws a card
+.
+S
+reveals an Estate
+.
+S
+plays a Caravan
+.
+S
+draws a card
+.
+S
+plays a Herald
+.
+S
+draws a card
+.
+S
+reveals a Herald
+.
+S
+plays a Herald
+.
+S
+draws a card
+.
+S
+reveals a Silver
+.
+S
+plays a Herald
+.
+S
+draws a card
+.
+S
+reveals a Lurker
+.
+S
+plays a Lurker
+.
+S
+trashes a Pearl Diver
+.
+S
+plays an Ironworks
+.
+S
+gains an Estate
+.
+S
+draws a card
+.
+S
+plays a Herald
+.
+S
+draws a card
+.
+S
+reveals a Copper
+.
+S
+plays a Black Market
+.
+S
+reveals a Peddler
+, a Highway
+and a Catacombs
+.
+S
+plays a Silver
+and 2 Coppers
+.
+S
+gains a Highway
+.
+S
+puts a Peddler
+and a Catacombs
+on the bottom of the Black Market Deck.
+S
+draws 5 cards
+.
+
+Turn 12 - E.Honda
+E
+starts their turn.
+E
+trashes a Copper
+.
+E
+plays a Herald
+.
+E
+draws a Lurker
+.
+E
+reveals a Copper
+.
+E
+plays a Pearl Diver
+.
+E
+draws a Copper
+.
+E
+looks at a Herald
+.
+E
+topdecks a card
+.
+E
+plays a Lurker
+.
+E
+gains a Pearl Diver
+.
+E
+plays a Black Market
+.
+E
+reveals a Harvest
+, an Advisor
+and a Crown
+.
+E
+plays 2 Coppers
+.
+E
+gains an Advisor
+.
+E
+puts a Harvest
+and a Crown
+on the bottom of the Black Market Deck.
+E
+draws an Estate
+, a Torturer
+, a Hunting Grounds
+and 2 Heralds
+.
+
+Turn 13 - SmokeScreen
+S
+starts their turn.
+S
+draws a card
+(Caravan
+).
+S
+plays a Pearl Diver
+.
+S
+shuffles their deck.
+S
+draws a card
+.
+S
+looks at a card
+.
+S
+plays a Crossroads
+.
+S
+reveals 2 Lurkers
+and an Archive
+.
+S
+draws a card
+.
+S
+plays a Lurker
+.
+S
+trashes an Archive
+.
+S
+plays a Lurker
+.
+S
+gains an Archive
+.
+S
+plays 3 Coppers
+.
+S
+buys and gains a Silver
+.
+S
+draws 5 cards
+.
+
+Turn 13 - E.Honda
+E
+plays a Herald
+.
+E
+draws an Archive
+.
+E
+reveals a Copper
+.
+E
+plays an Archive
+.
+E
+looks at a Copper
+, an Archive
+and a Black Market
+.
+E
+puts an Archive
+into their hand.
+E
+sets a Copper
+and a Black Market
+aside.
+E
+plays an Archive
+.
+E
+looks at a Copper
+, a Pearl Diver
+and a Herald
+.
+E
+puts a Herald
+into their hand.
+E
+sets a Copper
+and a Pearl Diver
+aside.
+E
+plays a Herald
+.
+E
+draws a Herald
+.
+E
+reveals an Ironworks
+.
+E
+plays an Ironworks
+.
+E
+gains a Pearl Diver
+.
+E
+plays a Herald
+.
+E
+draws an Estate
+.
+E
+reveals a Copper
+.
+E
+plays a Herald
+.
+E
+draws a Copper
+.
+E
+shuffles their deck.
+E
+reveals an Advisor
+.
+E
+plays an Advisor
+.
+E
+reveals a Copper
+, a Lurker
+and a Herald
+.
+E
+discards a Herald
+.
+E
+puts a Copper
+and a Lurker
+into their hand.
+E
+plays a Torturer
+.
+E
+draws a Copper
+, a Lurker
+and an Amulet
+.
+S
+discards a card
+and an Estate
+.
+E
+plays a Hunting Grounds
+.
+E
+draws a Copper
+and 3 Pearl Divers
+.
+E
+plays a Lurker
+.
+E
+trashes an Archive
+.
+E
+plays a Lurker
+.
+E
+gains an Archive
+.
+E
+plays a Pearl Diver
+.
+E
+draws a Black Market
+.
+E
+looks at a Black Market
+.
+E
+plays a Pearl Diver
+.
+E
+draws a Black Market
+.
+E
+shuffles their deck.
+E
+looks at a Herald
+.
+E
+topdecks a card
+.
+E
+plays a Pearl Diver
+.
+E
+draws a Herald
+.
+E
+looks at an Archive
+.
+E
+plays an Amulet
+.
+E
+trashes an Estate
+.
+E
+shuffles their deck.
+E
+draws a Lurker
+, a Hunting Grounds
+, 2 Heralds
+and an Archive
+.
+
+Turn 14 - SmokeScreen
+S
+plays a Pearl Diver
+.
+S
+draws a card
+.
+S
+looks at a card
+.
+S
+plays a Pearl Diver
+.
+S
+draws a card
+.
+S
+looks at a card
+.
+S
+plays a Highway
+.
+S
+draws a card
+.
+S
+plays a Lurker
+.
+S
+trashes a Hunting Grounds
+.
+S
+gains a Duchy
+.
+S
+plays 2 Coppers
+.
+S
+buys and gains a Black Market
+.
+S
+draws 5 cards
+.
+
+Turn 14 - E.Honda
+E
+starts their turn.
+E
+puts a Black Market
+and a Copper
+in hand (Archive
+).
+E
+trashes a Copper
+.
+E
+plays an Archive
+.
+E
+looks at a Copper
+, an Estate
+and a Herald
+.
+E
+puts a Herald
+into their hand.
+E
+sets a Copper
+and an Estate
+aside.
+E
+plays a Herald
+.
+E
+draws a Pearl Diver
+.
+E
+reveals a Copper
+.
+E
+plays a Pearl Diver
+.
+E
+draws a Copper
+.
+E
+looks at a Black Market
+.
+E
+plays a Herald
+.
+E
+draws a Torturer
+.
+E
+reveals an Advisor
+.
+E
+plays an Advisor
+.
+E
+reveals an Ironworks
+, a Herald
+and a Black Market
+.
+E
+discards a Black Market
+.
+E
+puts an Ironworks
+and a Herald
+into their hand.
+E
+plays a Herald
+.
+E
+draws a Herald
+.
+E
+reveals a Pearl Diver
+.
+E
+plays a Pearl Diver
+.
+E
+draws a Copper
+.
+E
+looks at a Black Market
+.
+E
+topdecks a card
+.
+E
+plays a Herald
+.
+E
+draws a Black Market
+.
+E
+reveals a Copper
+.
+E
+plays a Herald
+.
+E
+draws a Copper
+.
+E
+reveals a Pearl Diver
+.
+E
+plays a Pearl Diver
+.
+E
+draws a Lurker
+.
+E
+shuffles their deck.
+E
+looks at a Black Market
+.
+E
+plays a Black Market
+.
+E
+reveals a Bridge Troll
+, a Wine Merchant
+and a Sacrifice
+.
+E
+puts a Bridge Troll
+, a Wine Merchant
+and a Sacrifice
+on the bottom of the Black Market Deck.
+E
+plays a Black Market
+.
+E
+reveals an Expand
+, a Ranger
+and a Walled Village
+.
+E
+gains a Walled Village
+.
+E
+puts an Expand
+and a Ranger
+on the bottom of the Black Market Deck.
+E
+plays a Torturer
+.
+E
+shuffles their deck.
+E
+draws a Black Market
+and a Walled Village
+.
+S
+gains a Curse
+.
+E
+plays a Lurker
+.
+E
+trashes an Archive
+.
+E
+plays a Lurker
+.
+E
+gains an Archive
+.
+E
+plays a Walled Village
+.
+E
+shuffles their deck.
+E
+draws an Archive
+.
+E
+plays a Black Market
+.
+E
+reveals a Salvager
+, a Dame Sylvia
+and an Artificer
+.
+E
+plays 3 Coppers
+.
+E
+gains a Dame Sylvia
+.
+E
+puts a Salvager
+and an Artificer
+on the bottom of the Black Market Deck.
+E
+plays an Archive
+.
+E
+shuffles their deck.
+E
+looks at a Dame Sylvia
+.
+E
+puts a Dame Sylvia
+into their hand.
+E
+plays a Dame Sylvia
+.
+S
+reveals a Pearl Diver
+and a Forager
+.
+S
+trashes a Forager
+.
+S
+discards a Pearl Diver
+.
+E
+shuffles their deck.
+E
+draws a Copper
+, a Pearl Diver
+, a Herald
+, an Amulet
+and a Walled Village
+.
+
+Turn 15 - SmokeScreen
+S
+plays a Herald
+.
+S
+draws a card
+.
+S
+reveals a Herald
+.
+S
+plays a Herald
+.
+S
+draws a card
+.
+S
+reveals a Herald
+.
+S
+plays a Herald
+.
+S
+draws a card
+.
+S
+shuffles their deck.
+S
+reveals a Pearl Diver
+.
+S
+plays a Pearl Diver
+.
+S
+draws a card
+.
+S
+looks at a card
+.
+S
+topdecks a card
+.
+S
+plays a Herald
+.
+S
+draws a card
+.
+S
+reveals an Estate
+.
+S
+plays a Herald
+.
+S
+draws a card
+.
+S
+reveals a Pearl Diver
+.
+S
+plays a Pearl Diver
+.
+S
+draws a card
+.
+S
+looks at a card
+.
+S
+plays a Caravan
+.
+S
+draws a card
+.
+S
+plays a Crossroads
+.
+S
+reveals 2 Lurkers
+and an Archive
+.
+S
+draws 2 cards
+.
+S
+plays a Pearl Diver
+.
+S
+draws a card
+.
+S
+looks at a card
+.
+S
+plays a Lurker
+.
+S
+gains a Forager
+.
+S
+plays an Ironworks
+.
+S
+gains an Estate
+.
+S
+draws a card
+.
+S
+plays a Black Market
+.
+S
+reveals a Wandering Minstrel
+, a Giant
+and a Gladiator
+.
+S
+plays a Silver
+.
+S
+gains a Wandering Minstrel
+.
+S
+puts a Giant
+and a Gladiator
+on the bottom of the Black Market Deck.
+S
+plays a Black Market
+.
+S
+reveals a Tactician
+, an Oracle
+and a Stonemason
+.
+S
+plays 3 Coppers
+.
+S
+gains 2 Lurkers
+.
+S
+gains a Stonemason
+.
+S
+puts a Tactician
+and an Oracle
+on the bottom of the Black Market Deck.
+S
+draws 5 cards
+.
+
+Turn 15 - E.Honda
+E
+starts their turn.
+E
+puts a Pearl Diver
+, an Estate
+and a Copper
+in hand (Archive
+).
+E
+plays a Pearl Diver
+.
+E
+draws an Ironworks
+.
+E
+looks at a Lurker
+.
+E
+plays a Herald
+.
+E
+draws an Advisor
+.
+E
+reveals a Black Market
+.
+E
+plays a Black Market
+.
+E
+reveals an Explorer
+, a Sea Hag
+and a Fairgrounds
+.
+E
+puts an Explorer
+, a Sea Hag
+and a Fairgrounds
+on the bottom of the Black Market Deck.
+E
+plays an Advisor
+.
+E
+reveals a Torturer
+and 2 Heralds
+.
+E
+discards a Herald
+.
+E
+puts a Torturer
+and a Herald
+into their hand.
+E
+plays a Herald
+.
+E
+draws a Herald
+.
+E
+reveals a Pearl Diver
+.
+E
+plays a Pearl Diver
+.
+E
+draws a Copper
+.
+E
+looks at a Lurker
+.
+E
+plays a Herald
+.
+E
+draws a Hunting Grounds
+.
+E
+reveals a Black Market
+.
+E
+plays a Black Market
+.
+E
+reveals a Market
+, a Trader
+and a Merchant Guild
+.
+E
+puts a Market
+, a Trader
+and a Merchant Guild
+on the bottom of the Black Market Deck.
+E
+plays a Walled Village
+.
+E
+draws a Copper
+.
+E
+plays a Torturer
+.
+E
+draws a Pearl Diver
+, a Dame Sylvia
+and a Black Market
+.
+S
+discards a card
+and a Copper
+.
+E
+plays a Pearl Diver
+.
+E
+draws a Lurker
+.
+E
+looks at a Lurker
+.
+E
+plays a Pearl Diver
+.
+E
+draws an Archive
+.
+E
+looks at a Lurker
+.
+E
+plays an Archive
+.
+E
+shuffles their deck.
+E
+looks at a Lurker
+and 2 Heralds
+.
+E
+puts a Lurker
+into their hand.
+E
+sets 2 Heralds
+aside.
+E
+plays a Lurker
+.
+E
+trashes a Hunting Grounds
+.
+E
+gains 3 Estates
+.
+E
+plays a Lurker
+.
+E
+trashes a Hunting Grounds
+.
+E
+gains 3 Estates
+.
+E
+plays an Ironworks
+.
+E
+gains a Pearl Diver
+.
+E
+plays an Amulet
+.
+E
+trashes a Hunting Grounds
+.
+E
+gains a Duchy
+.
+E
+plays a Dame Sylvia
+.
+S
+reveals a Silver
+and a Highway
+.
+S
+trashes a Silver
+.
+S
+discards a Highway
+.
+E
+buys and gains a Pearl Diver
+.
+E
+shuffles their deck.
+E
+draws an Estate
+, a Torturer
+, a Pearl Diver
+, a Herald
+and a Black Market
+.
+Reshuffling the Black Market deck.
+
+Waiting for E.Honda
+.

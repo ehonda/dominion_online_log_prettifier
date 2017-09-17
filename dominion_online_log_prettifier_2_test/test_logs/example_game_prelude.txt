@@ -1,0 +1,28 @@
+
+Game #6437249, rated.
+SmokeScreen
+: 51.27
+
+E.Honda
+: 61.01
+
+
+S
+starts with 7 Coppers
+and 3 Estates
+.
+S
+shuffles their deck.
+S
+draws 5 cards
+.
+E
+starts with 7 Coppers
+and 3 Estates
+.
+E
+shuffles their deck.
+E
+draws 4 Coppers
+and an Estate
+.

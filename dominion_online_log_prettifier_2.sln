@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dominion_online_log_prettifier_2_app", "dominion_online_log_prettifier_2_app\dominion_online_log_prettifier_2_app.vcxproj", "{F3E85095-3169-4F01-B38B-B3C1DA80013E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dominion_online_log_prettifier_2_test", "dominion_online_log_prettifier_2_test\dominion_online_log_prettifier_2_test.vcxproj", "{37023D2F-3936-4E7C-BAD2-D0B83BB4A9C4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F3E85095-3169-4F01-B38B-B3C1DA80013E} = {F3E85095-3169-4F01-B38B-B3C1DA80013E}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3E85095-3169-4F01-B38B-B3C1DA80013E}.Debug|x64.ActiveCfg = Debug|x64
+		{F3E85095-3169-4F01-B38B-B3C1DA80013E}.Debug|x64.Build.0 = Debug|x64
+		{F3E85095-3169-4F01-B38B-B3C1DA80013E}.Debug|x86.ActiveCfg = Debug|Win32
+		{F3E85095-3169-4F01-B38B-B3C1DA80013E}.Debug|x86.Build.0 = Debug|Win32
+		{F3E85095-3169-4F01-B38B-B3C1DA80013E}.Release|x64.ActiveCfg = Release|x64
+		{F3E85095-3169-4F01-B38B-B3C1DA80013E}.Release|x64.Build.0 = Release|x64
+		{F3E85095-3169-4F01-B38B-B3C1DA80013E}.Release|x86.ActiveCfg = Release|Win32
+		{F3E85095-3169-4F01-B38B-B3C1DA80013E}.Release|x86.Build.0 = Release|Win32
+		{37023D2F-3936-4E7C-BAD2-D0B83BB4A9C4}.Debug|x64.ActiveCfg = Debug|x64
+		{37023D2F-3936-4E7C-BAD2-D0B83BB4A9C4}.Debug|x64.Build.0 = Debug|x64
+		{37023D2F-3936-4E7C-BAD2-D0B83BB4A9C4}.Debug|x86.ActiveCfg = Debug|Win32
+		{37023D2F-3936-4E7C-BAD2-D0B83BB4A9C4}.Debug|x86.Build.0 = Debug|Win32
+		{37023D2F-3936-4E7C-BAD2-D0B83BB4A9C4}.Release|x64.ActiveCfg = Release|x64
+		{37023D2F-3936-4E7C-BAD2-D0B83BB4A9C4}.Release|x64.Build.0 = Release|x64
+		{37023D2F-3936-4E7C-BAD2-D0B83BB4A9C4}.Release|x86.ActiveCfg = Release|Win32
+		{37023D2F-3936-4E7C-BAD2-D0B83BB4A9C4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
